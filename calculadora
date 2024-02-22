@@ -1,0 +1,25 @@
+public class Calculadora 
+//Irei colocar a divisão depois
+{
+	
+	public int somar(int numeroUm, int numeroDois) {
+		int soma = 0;
+		soma = numeroUm + numeroDois;
+		return soma;
+	}
+
+	public int subtrair(int numeroUm, int numeroDois) {
+		int subtrai = 0;
+		subtrai = numeroUm - numeroDois;
+		return subtrai;
+	}
+
+	public int multiplicar(int numeroUm, int numeroDois) {
+		int multiplica = 0;
+		multiplica = numeroUm * numeroDois;
+		return multiplica;
+
+	}
+
+}
+			
